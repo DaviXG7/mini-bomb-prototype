@@ -1,0 +1,12 @@
+# PlatformIO Project
+.pio
+.vscode
+.idea
+*.suo
+*.sln
+*.ncb
+*.user
+*.config
+*.DS_Store
+*.swp
+*.*~

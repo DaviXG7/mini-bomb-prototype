@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pio device *)",
+      "Bash(lsusb *)",
+      "Bash(npm search *)",
+      "Bash(claude mcp *)",
+      "Bash(~/.platformio/penv/bin/pio run *)",
+      "Bash(pio run *)",
+      "Bash(sudo chmod a+rw /dev/ttyUSB0)",
+      "Bash(stty -F /dev/ttyUSB0 115200 cs8 -cstopb -parenb)",
+      "Read(//dev/**)",
+      "Bash(stty -F /dev/ttyUSB0 115200 raw -echo)",
+      "Bash(timeout 8 cat /dev/ttyUSB0)",
+      "Read(//home/alexsanderalri/ALRIGROUP/**)",
+      "Bash(zip -r Bomba_C4_Arduino.zip Arduino/ -x \"*/.pio/*\" -x \"*/.vscode/*\")",
+      "Bash(python3 -m zipfile -c Bomba_C4_Arduino.zip Arduino/)"
+    ]
+  }
+}
