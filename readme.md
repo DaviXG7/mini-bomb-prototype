@@ -142,3 +142,8 @@ This project was created for educational and learning purposes in electronics an
 
 Diagram PDF: [Exquisite Gogo.pdf](https://github.com/user-attachments/files/33131208/Exquisite.Gogo.pdf)
 
+# Videos
+
+https://github.com/user-attachments/assets/b7dc0989-e471-49a0-8a3f-e662f960b059
+
+https://github.com/user-attachments/assets/63e9676f-adcb-4427-8a42-5966042efeae
