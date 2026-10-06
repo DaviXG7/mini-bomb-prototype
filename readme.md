@@ -138,6 +138,7 @@ This project was created for educational and learning purposes in electronics an
 ---
 
 # Circuit diagram
+*It isn't accurrate because of the Tinkerkad application doesn't have all the components we used*
 <img width="1880" height="854" alt="Exquisite Gogo" src="https://github.com/user-attachments/assets/0a81c6e6-dd77-4ca4-a13f-f51f23766374" />
 
 Diagram PDF: [Exquisite Gogo.pdf](https://github.com/user-attachments/files/33131208/Exquisite.Gogo.pdf)
