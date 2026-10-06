@@ -1,6 +1,6 @@
 # Mini Arduino Bomb
 
-*Made by DaviXG7, Alex AR and Davi Alves*
+*Made by DaviXG7, Alex AR and Davi Alves.*
 
 We decided to share it with the community for educational purposes and we made it at school and it was a fun project to learn about electronics and programming.
 
