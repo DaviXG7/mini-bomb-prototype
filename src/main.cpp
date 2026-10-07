@@ -13,7 +13,7 @@
  *  - Keys '7', '5', '3': Secret code sequence to DISARM the bomb.
  *  - Key '9': Resets the game after an explosion or successful disarm.
  * 
- * Vibecoded code made by Claude. We decided to share it with the community for educational purposes.
+ * Vibecoded code made by Claude. We decided to share it with the community for educational purposes. AI assist us understanding how to build this code and it implemented while we didn't have enough time at school, lol
  * We made it at school and it was a fun project to learn about electronics and programming.
  * ================================================================================
  */
