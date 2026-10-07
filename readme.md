@@ -6,7 +6,10 @@ We decided to share it with the community for educational purposes and we made i
 
 # Circuit diagram
 *It isn't accurate because of the Tinkercad application doesn't have all the components we used*
+
 <img width="1880" height="854" alt="Exquisite Gogo" src="https://github.com/user-attachments/assets/0a81c6e6-dd77-4ca4-a13f-f51f23766374" />
+
+Diagram PDF from Tinkercad: [Exquisite Gogo.pdf](https://github.com/user-attachments/files/33131208/Exquisite.Gogo.pdf)
 
 ## About project
 
@@ -140,8 +143,6 @@ pio device monitor
 This project was created for educational and learning purposes in electronics and Arduino development.
 
 ---
-
-Diagram PDF from Tinkercad: [Exquisite Gogo.pdf](https://github.com/user-attachments/files/33131208/Exquisite.Gogo.pdf)
 
 # Videos
 
