@@ -4,6 +4,10 @@
 
 We decided to share it with the community for educational purposes and we made it at school and it was a fun project to learn about electronics and programming.
 
+# Circuit diagram
+*It isn't accurate because of the Tinkercad application doesn't have all the components we used*
+<img width="1880" height="854" alt="Exquisite Gogo" src="https://github.com/user-attachments/assets/0a81c6e6-dd77-4ca4-a13f-f51f23766374" />
+
 ## About project
 
 This project is a simulation of a bomb in a _game prop_ / _timer_ style inspired by defuse games, developed with Arduino Uno and PlatformIO.
@@ -137,11 +141,7 @@ This project was created for educational and learning purposes in electronics an
 
 ---
 
-# Circuit diagram
-*It isn't accurrate because of the Tinkerkad application doesn't have all the components we used*
-<img width="1880" height="854" alt="Exquisite Gogo" src="https://github.com/user-attachments/assets/0a81c6e6-dd77-4ca4-a13f-f51f23766374" />
-
-Diagram PDF: [Exquisite Gogo.pdf](https://github.com/user-attachments/files/33131208/Exquisite.Gogo.pdf)
+Diagram PDF from Tinkercad: [Exquisite Gogo.pdf](https://github.com/user-attachments/files/33131208/Exquisite.Gogo.pdf)
 
 # Videos
 
